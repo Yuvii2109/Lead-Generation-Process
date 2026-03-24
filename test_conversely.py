@@ -88,7 +88,7 @@ def scrape_startup_website(url):
 # ==========================================
 def generate_conversely_pitch(startup_text, conversely_docs):
     print("\nAI generating Conversely B2B Proposal...")
-    client = genai.Client(api_key="AIzaSyA8tUSk_i1wkjFGIl53uIEUxpkd59w9-DY")
+    client = genai.Client(api_key="")
     
     prompt = f"""
 You are an Elite Tech Sales SDR and Solutions Architect for 'Conversely', a Technical Software Services and SaaS company.

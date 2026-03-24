@@ -1,0 +1,8 @@
+.env
+.ipynb_checkpoints
+.virtual_documents
+cbse_circulars
+Conversely_Docs
+edxso_proposals
+.vscode
+__pycache__

@@ -1,0 +1,12 @@
+requests
+beautifulsoup4
+PyPDF2
+google-genai
+markdown
+xhtml2pdf
+python-dotenv
+streamlit
+google-api-python-client
+trafilatura
+python-docx 
+python-pptx
